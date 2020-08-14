@@ -1,0 +1,9 @@
+	FileName	Energy	dEnergy	f0	f-Real	f-Imagin
+0	223_10000.0_eV_Tif_509_Norm_c0_Sub.dat	NaN	NaN	NaN	NaN	NaN
+1	223_7000.0_eV_Tif_383_Norm_c0_Sub.dat	NaN	NaN	NaN	NaN	NaN
+2	223_8004.0_eV_Tif_401_Norm_c0_Sub.dat	NaN	NaN	NaN	NaN	NaN
+3	223_8239.0_eV_Tif_419_Norm_c0_Sub.dat	NaN	NaN	NaN	NaN	NaN
+4	223_8304.0_eV_Tif_437_Norm_c0_Sub.dat	NaN	NaN	NaN	NaN	NaN
+5	223_8324.0_eV_Tif_455_Norm_c0_Sub.dat	NaN	NaN	NaN	NaN	NaN
+6	223_8330.0_eV_Tif_473_Norm_c0_Sub.dat	NaN	NaN	NaN	NaN	NaN
+7	223_8973.0_eV_Tif_491_Norm_c0_Sub.dat	NaN	NaN	NaN	NaN	NaN
