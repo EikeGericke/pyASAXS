@@ -1,0 +1,385 @@
+# /messung/kmc/daten/2020/20_kw29tg14/fcm_2020kw29tg14_00104.h5
+# EVEH5Version	 = 6
+# Comment	 = Probenhalter Maria Heilmann - NiCu - NP's - ASAXS 10000ev
+# Version	 = 1.33
+# XMLversion	 = 8.0
+# Location	 = KMC
+# SCML-Name	 = fcm_Vorlage_KW29_PTB_HZB2020_07.scml
+# SCML-Author	 = fcm@roe
+# StartTimeISO	 = 2020-07-17T14:11:43
+# StartTime	 = 14:11:43
+# StartDate	 = 17.07.2020
+# EndTimeISO	 = 2020-07-17T16:28:28
+# FileFormat	 = HDF5
+#
+# MotorPositions:
+# 	FILTER_1	 = 125um Be
+# 	FILTER_2	 = None
+# 	FILTER_PINHOLES	 = Al
+# 	REF_DIODES	 = Thin diode
+# 	DIODE_IN_MONO	 = Out
+# 	DIODE_BEHIND_MONO	 = Out
+# 	COATING_2nd_MIR	 = Pt
+# 	Energy	 = 9999.991504589068
+# 	Mono_1st_wheel	 = 11.404300000000003
+# 	Mono_2nd_wheel	 = 11.404270528752335
+# 	Mono_cr_change	 = 54.0
+# 	Mirror_2_Bender	 = 2.25
+# 	Bias_Keysight1	 = NaN
+# 	PilatusAcqTime	 = 600.0
+# 	PilatusEnergy	 = 10.0
+# 	PilatusThreshold	 = 5.0
+# 	WAXS_AcqTime	 = 180.0
+# 	WAXS_Energy	 = 8.0
+# 	WAXS_ThresholdEnergy	 = 4.0
+# 	Screen	 = 10.000134000000003
+# 	BeamStop_X	 = 10.399898400000001
+# 	BeamStop_Y	 = 6.600064
+# 	VacSampleX	 = 12.999999999999886
+# 	VacSampleRot	 = 0.0
+# 	Diode	 = 0.0
+# 	S_5_up	 = -0.7349999999999999
+# 	S_5_down	 = 0.22499999999999964
+# 	S_5_left	 = 1.75
+# 	S5_right	 = 1.4699999999999998
+# 	SAXS_X1	 = 17.0
+# 	SAXS_X2	 = 37.1174
+# 	HubAchse1	 = 0.47999999999999954
+# 	HubAchse2	 = 4.8
+# 	BalgSystem	 = -785.8965000000001
+# 	Det_SAXS	 = 349.6878164
+# 	Sample-Z	 = 0.0
+# 	Tilt-Z	 = 0.0
+# 	Sample-Y	 = 4.999999999999986
+# 	Tilt-Y	 = 0.0
+# 	Theta	 = 5.684341886080801e-14
+# 	2Theta	 = -25.000000000000014
+# 	Det.-X	 = 0.0
+# 	Sample-X	 = 160.0
+# 	Diodes_1	 = 1.0000500000000017
+# 	Pinhole_2_Y	 = 0.987499999999983
+# 	Strahl_Diagnose	 = 76.00000000000001
+# 	Filter_1	 = 33.5
+# 	Filter_2	 = 99.7
+# 	Mirror_1_hor	 = 0.0
+# 	Mirror_1_vert	 = -0.4800000000000001
+# 	Mirror_1_theta	 = 7.4996146918
+# 	Mirror_1_psi	 = -1.3001112206
+# 	Beam_pos_vert	 = -6.0
+# 	Beam_pos_hor	 = 1.0
+# 	Slit_1_up	 = 24.259999999999998
+# 	Slit_1_down	 = 13.599999999999998
+# 	Slit_1_right	 = 28.72
+# 	Slit_1_left	 = 13.100000000000001
+# 	Slit_2_up	 = 30.15000000000001
+# 	Slit_2_down	 = 8.379999999999999
+# 	Filter_CCD_pinholes	 = 39.0
+# 	Ref_Diodes	 = 55.5
+# 	Crystal_2_theta	 = 8.0622809906006
+# 	Crystal_3_theta	 = 3.57061556968689
+# 	Crystal_2_phi	 = 3.8558
+# 	Crystal_1_phi	 = 2.123625
+# 	Crystal_3_phi	 = 19.900000000000002
+# 	Crystal_4_phi	 = 4.201
+# 	Diode_in_mono	 = 90.0
+# 	Diode_behind_mono	 = 5.0
+# 	Slit_3_up	 = 6.420000000000003
+# 	Slit_3_down	 = 25.93
+# 	Slit_3_right	 = 21.19
+# 	Slit_3_left	 = 20.76
+# 	Mirror_2_hor	 = 0.0
+# 	Mirror_2_vert	 = -1.7299999999999986
+# 	Mirror_2_theta	 = 7.583024115
+# 	Lift_table	 = 613.8749933799999
+# 	Slit_4_up	 = 2.5275
+# 	Slit_4_down	 = 9.6525
+# 	Slit_4_right	 = 5.17375
+# 	Slit_4_left	 = 1.0812499999999998
+# 	Pinhole_1_y	 = 23.500299999999996
+# 	Pinhole_1_x	 = 2.6799999999999926
+# 	Pinhole_2_X	 = 2.0000000000000284
+# 	NewRef_S5_up	 = 0.676685
+# 	NewRef_S5_down	 = 0.32331499999999913
+# 	NewRef_S5_right	 = 1.25
+# 	NewRef_S5_left	 = 1.45
+# 	Offset_2Theta	 = 108.091
+# 	Offset_Theta	 = -361.073
+# 	VacSampleY	 = -9.149999
+# 	Slit_1_vert_pos	 = 5.551115123125783e-17
+# 	Slit_1_vert_size	 = 3.000000000000002
+# 	Slit_1_hor_pos	 = -1.3322676295501878e-15
+# 	Slit_1_hor_size	 = 6.0
+# 	Slit_2_vert_pos	 = 0.8000000000000043
+# 	Slit_2_vert_size	 = 5.000000000000007
+# 	Slit_3_vert_pos	 = 0.10000000000000142
+# 	Slit_3_vert_size	 = 2.6999999999999993
+# 	Slit_3_hor_pos	 = 1.3
+# 	Slit_3_hor_size	 = 15.000000000000004
+# 	Slit_4_vert_pos	 = 0.0
+# 	Slit_4_vert_size	 = 5.000000000000002
+# 	Slit_4_hor_pos	 = 0.0
+# 	Slit_4_hor_size	 = 5.0
+# 	Slit5_VertPos	 = 0.2550000000000001
+# 	Slit5_VertSize	 = 0.9999999999999996
+# 	Slit5_HorPos	 = -1.6099999999999999
+# 	Slit5_HorSize	 = 0.9999999999999996
+# 	SAXS_angle	 = 0.0
+# 	NewRef_S5_VertPos	 = -0.17668500000000043
+# 	NewRef_S5_VertSize	 = 0.39999999999999913
+# 	NewRef_S5_HorPos	 = -0.09999999999999998
+# 	NewRef_S5_HorSize	 = 0.8000000000000003
+# 	bsdd6_PreLifeTime	 = 1800.0
+# 	bsdd6_PreRealTime	 = 0.0
+# 	beam_current_threshold	 = 20.0
+#
+# Plot:
+# 	Motor	 = VacSampleX
+# 	Detector	 = Keysight1
+# 	Monitor	 = Keysight4
+#
+# SnapshotValues:
+# 	Detector:
+# 		Keysight1	 = 2 4.53347e-7 22 4.48165e-7
+# 		Keysight2	 = 2 5.718e-10 22 7.2409e-10
+# 		Keysight3	 = 2 6.06039e-13 22 6.23132e-13
+# 		Keysight4	 = 2 2.98223e-8 22 1.4993e-9
+# 		Mono_Cu_Temp	 = 2 32.36743724727261 22 32.388799877927994
+# 		Cr_1_Cu_Bloc	 = 2 30.38681620508141 22 30.408178835736784
+# 		Cr_2_Si_Temp	 = 2 31.097886625467467 22 31.097886625467467
+# 		Mon_Gear_Temp	 = 2 32.86793316548426 22 32.846570534828885
+# 		Cr_3_Si_Temp	 = 2 29.257096425855536 22 29.265441520617372
+# 		Cr_4_InSb_Temp	 = 2 29.251465740109587 22 29.266033138936834
+# 		bsdd6_prelifeTime	 = 2 1800.0 22 1800.0
+# 		bsdd6_prerealTime	 = 2 0.0 22 0.0
+# 		Daheng-FileNumber	 = 2 1 22 1
+# 		PilatusPos	 = 2 3012.877 22 3012.877
+# 		SAXS_Hub_1	 = 2 31.44 22 31.44
+# 		SAXS_Hub_2	 = 2 22.381 22 22.381
+# 		Autocol_X	 = 2 -121.303 22 -121.545
+# 		Autocol_Y	 = 2 -28.904 22 -29.16
+# 		Keithley_3	 = 2 5.598e-14 22 6.059e-14
+# 		Bessy_Ringstrom	 = 2 297.56812360000004 22 297.7459142
+# 		Bessy_Lebensdauer	 = 2 8.426139750694261 22 7.885256839655901
+# 		Det_1st_wheel	 = 2 11.404300000000003 22 11.404300000000003
+# 		Offset_1st_wheel	 = 2 -7.10295 22 -7.10295
+# 		Det_2nd_wheel	 = 2 11.404270528752335 22 11.404270528752335
+# 		Offset_2nd_wheel	 = 2 210.06327052875235 22 210.06327052875235
+# 		Offset_Theta	 = 2 -361.073 22 -361.073
+# 		Offset_2Theta	 = 2 108.091 22 108.091
+# 		Pinhole_Center_X	 = 2 806.1285371233513 22 806.5160627395804
+# 		Pinhole_Center_Y	 = 2 554.966026005386 22 555.0222968135442
+# 		Pinhole_FWHM_X	 = 2 38.33799839688613 22 38.94648976540769
+# 		Pinhole_FWHM_Y	 = 2 27.46370370994826 22 26.47880173698697
+# 		Pinhole_Sigma_X	 = 2 15.804533988241861 22 16.04749536613538
+# 		Pinhole_Sigma_Y	 = 2 11.069488128961739 22 10.636030034583083
+# 		SM-Counter	 = 2 2 22 5
+# 		PTB_U49	 = 2 20.3793 22 20.396900000000002
+# 		Ring_1	 = 2 297.4501505943157 22 297.6380456837564
+# 		Lebensdauer_1	 = 2 8.381260820123337 22 8.271963586331488
+# 		TopupState	 = 2 decay 22 decay
+# 		Ring_2	 = 2 297.1887051021077 22 297.3584371967638
+# 		Lebensdauer_2	 = 2 8.50406610664094 22 8.530909550812233
+# 		Pot_Mi_1_hor	 = 2 3.5041637891159096 22 3.505431682433606
+# 		Pot_Mi_1_vert	 = 2 3.086965619864717 22 3.0873243341079486
+# 		Pot_Mi_1_theta	 = 2 3.7764804859543553 22 3.777677268809486
+# 		Pot_Mi_1_psi	 = 2 5.361556485368576 22 5.362460557929945
+# 		Tilt_Mi_1_theta	 = 2 8.32031543643024 22 8.321836055739247
+# 		Tilt_Mi_1_phi	 = 2 -3.5400863552736612 22 -3.540488643641717
+# 		FCM_Diff	 = 2 3.76853521290885 22 3.514991025619276
+# 		Tilt_Mono_theta	 = 2 -0.06873079353559192 22 -0.06758588061238459
+# 		Tilt_Mono_psi	 = 2 0.15741766418959377 22 0.1572204217354083
+# 		Pot_Mi_2_hor	 = 2 8.86614490944669 22 8.86709832362375
+# 		Pot_Mi_2_vert	 = 2 -9.996337890624995 22 -9.996337890624995
+# 		Pot_Mi_2_theta	 = 2 3.4653080539642893 22 3.465647625581464
+# 		Tilt_Mi_2_theta	 = 2 5.5006378416657435 22 5.499887850415212
+# 		Tilt_Mi_2_phi	 = 2 -0.2743067817048623 22 -0.2736998600247223
+# 		Pressure_Bender	 = 2 2.240256137335554 22 2.254995714475464
+# 		Humid0	 = 2 28.0 22 28.0
+# 		Humid1	 = 2 35.29999923706055 22 35.29999923706055
+# 		Humid2	 = 2 0.0 22 0.0
+# 		Temp0	 = 2 34.0 22 34.0
+# 		Temp1	 = 2 29.5 22 29.5
+# 		Temp2	 = 2 7.900000095367432 22 7.900000095367432
+# 		WAXS_Humid0	 = 2 0.0 22 0.0
+# 		WAXS_Temp0	 = 2 0.0 22 0.0
+# Motors:
+# 	PilatusAcqTime:
+# 		XML-ID	 = Motpilatus01:cam1:AcquireTime
+# 		Name	 = PilatusAcqTime
+# 		Access	 = ca:pilatus01:cam1:AcquireTime
+# 		DeviceType	 = Axis
+# 	VacSampleX:
+# 		XML-ID	 = OMS58:io0700004
+# 		Name	 = VacSampleX
+# 		Access	 = ca:OMS58:io0700004
+# 		Unit	 = mm
+# 		DeviceType	 = Axis
+# 	Sample-Z:
+# 		XML-ID	 = OMS58:io1500000
+# 		Name	 = Sample-Z
+# 		Access	 = ca:OMS58:io1500000
+# 		Unit	 = mm
+# 		DeviceType	 = Axis
+# 	Tilt-Z:
+# 		XML-ID	 = OMS58:io1500001
+# 		Name	 = Tilt-Z
+# 		Access	 = ca:OMS58:io1500001
+# 		Unit	 = deg
+# 		DeviceType	 = Axis
+# 	Sample-Y:
+# 		XML-ID	 = OMS58:io1500002
+# 		Name	 = Sample-Y
+# 		Access	 = ca:OMS58:io1500002
+# 		Unit	 = mm
+# 		DeviceType	 = Axis
+# 	Tilt-Y:
+# 		XML-ID	 = OMS58:io1500003
+# 		Name	 = Tilt-Y
+# 		Access	 = ca:OMS58:io1500003
+# 		Unit	 = deg
+# 		DeviceType	 = Axis
+# 	2Theta:
+# 		XML-ID	 = OMS58:io1501001
+# 		Name	 = 2Theta
+# 		Access	 = ca:OMS58:io1501001
+# 		Unit	 = deg
+# 		DeviceType	 = Axis
+# 	VacSampleY:
+# 		XML-ID	 = SMACT:tsrv47S2000
+# 		Name	 = VacSampleY
+# 		Access	 = ca:SMACT:tsrv47S2000
+# 		Unit	 = mm
+# 		DeviceType	 = Axis
+# Detectors:
+# 	Keysight1:
+# 		XML-ID	 = A2980:22702chan1
+# 		Name	 = Keysight1
+# 		Access	 = ca:A2980:22702.VAL
+# 		Unit	 = A
+# 		DeviceType	 = Channel
+# 		Detectortype	 = Interval
+# 	Keysight2:
+# 		XML-ID	 = A2980:22703chan1
+# 		Name	 = Keysight2
+# 		Access	 = ca:A2980:22703.VAL
+# 		Unit	 = A
+# 		DeviceType	 = Channel
+# 		Detectortype	 = Interval
+# 	Keysight3:
+# 		Name	 = Keysight3
+# 		Unit	 = A
+# 		Access	 = ca:A2980:22704.VAL
+# 		DeviceType	 = Channel
+# 		Detectortype	 = Interval
+# 		XML-ID	 = A2980:22704chan1
+# 	Keysight4:
+# 		XML-ID	 = A2980:22705chan1
+# 		Name	 = Keysight4
+# 		Access	 = ca:A2980:22705.VAL
+# 		Unit	 = A
+# 		DeviceType	 = Channel
+# 		Detectortype	 = Interval
+# 	PilatusPos:
+# 		XML-ID	 = ENC6x:tsrv47S101chan1
+# 		Name	 = PilatusPos
+# 		Access	 = ca:ENC6x:tsrv47S101.VAL
+# 		Unit	 = mm
+# 		DeviceType	 = Channel
+# 		Detectortype	 = Standard
+# 	SAXS_Hub_1:
+# 		XML-ID	 = ENC6x:tsrv47S102chan1
+# 		Name	 = SAXS_Hub_1
+# 		Access	 = ca:ENC6x:tsrv47S102.VAL
+# 		Unit	 = mm
+# 		DeviceType	 = Channel
+# 		Detectortype	 = Standard
+# 	SAXS_Hub_2:
+# 		XML-ID	 = ENC6x:tsrv47S103chan1
+# 		Name	 = SAXS_Hub_2
+# 		Access	 = ca:ENC6x:tsrv47S103.VAL
+# 		Unit	 = mm
+# 		DeviceType	 = Channel
+# 		Detectortype	 = Standard
+# 	Time:
+# 		XML-ID	 = Timer1-det-double
+# 		Name	 = Time
+# 		Access	 = local:Timer
+# 		Unit	 = secs
+# 		DeviceType	 = Channel
+# 		Detectortype	 = Standard
+# 	Ring_1:
+# 		XML-ID	 = bIICurrent:Mnt1chan1
+# 		Name	 = Ring_1
+# 		Access	 = ca:bIICurrent:Mnt1.VAL
+# 		Unit	 = mA
+# 		DeviceType	 = Channel
+# 		Detectortype	 = Standard
+# 	Pilatus_Trigger:
+# 		XML-ID	 = pilatus01:cam1:chan1
+# 		Name	 = Pilatus_Trigger
+# 		Access	 = ca:pilatus01:cam1:FileNumber_RBV
+# 		DeviceType	 = Channel
+# 		Detectortype	 = Standard
+# 	Pilatus_Tiff:
+# 		XML-ID	 = pilatus01:cam1:lastFileNr
+# 		Name	 = Pilatus_Tiff
+# 		Access	 = ca:pilatus01:cam1:lastFileNr
+# 		DeviceType	 = Channel
+# 		Detectortype	 = Standard
+# 	Pilatus_filename:
+# 		XML-ID	 = pilatus01:cam1FullFilename
+# 		Name	 = Pilatus_filename
+# 		Access	 = ca:pilatus01:cam1:FullFileName_RBV
+# 		DeviceType	 = Channel
+# 		Detectortype	 = Standard
+# 		longString	 = true
+# Datasets:
+# 	PosCountTimer:
+# 		Unit	 = msecs
+# 	Keysight1:Count:
+# 		channel	 = A2980:22702chan1
+# 		Name	 = Keysight1
+# 	Keysight1:TriggerIntv:
+# 		Name	 = Keysight1
+# 		channel	 = A2980:22702chan1
+# 	Keysight1:StandardDeviation:
+# 		Name	 = Keysight1
+# 		channel	 = A2980:22702chan1
+# 	Keysight2:Count:
+# 		Name	 = Keysight2
+# 		channel	 = A2980:22703chan1
+# 	Keysight2:TriggerIntv:
+# 		Name	 = Keysight2
+# 		channel	 = A2980:22703chan1
+# 	Keysight2:StandardDeviation:
+# 		Name	 = Keysight2
+# 		channel	 = A2980:22703chan1
+# 	Keysight3:Count:
+# 		Name	 = Keysight3
+# 		channel	 = A2980:22704chan1
+# 	Keysight3:TriggerIntv:
+# 		Name	 = Keysight3
+# 		channel	 = A2980:22704chan1
+# 	Keysight3:StandardDeviation:
+# 		Name	 = Keysight3
+# 		channel	 = A2980:22704chan1
+# 	Keysight4:Count:
+# 		Name	 = Keysight4
+# 		channel	 = A2980:22705chan1
+# 	Keysight4:TriggerIntv:
+# 		Name	 = Keysight4
+# 		channel	 = A2980:22705chan1
+# 	Keysight4:StandardDeviation:
+# 		Name	 = Keysight4
+# 		channel	 = A2980:22705chan1
+# 	PosCounter:
+# PilatusAcqTime	VacSampleX	Sample-Z	Tilt-Z	Sample-Y	Tilt-Y	2Theta	VacSampleY	Keysight1	Keysight2	Keysight3	Keysight4	PilatusPos	SAXS_Hub_1	SAXS_Hub_2	Time	Ring_1	Pilatus_Trigger	Pilatus_Tiff	Pilatus_filename	PosCountTimer	Keysight1:Count	Keysight1:TriggerIntv	Keysight1:StandardDeviation	Keysight2:Count	Keysight2:TriggerIntv	Keysight2:StandardDeviation	Keysight3:Count	Keysight3:TriggerIntv	Keysight3:StandardDeviation	Keysight4:Count	Keysight4:TriggerIntv	Keysight4:StandardDeviation	PosCounter
+NaN	NaN	0.0	0.0	4.999999999999986	0.0	-25.000000000000014	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	1620	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	3
+600.0	132.9999999999999	0.0	0.0	4.999999999999986	0.0	-25.000000000000014	-1.9999999999581984e-6	5.33746981666667e-7	5.32907083333333e-10	6.09354096666667e-13	2.976974866666665e-8	3012.877	31.44	22.381	33.843	297.1244372438106	505	504.0	/messung/kmc/daten/2020/20_kw29tg14/pilatus_2020kw29tg14_00504.tif	1718	600	1.0	8.508196213324384e-10	600	1.0	3.217508099531094e-11	600	1.0	2.3193944983273902e-14	600	1.0	4.9573692787432667e-11	4
+300.0	122.99999999999989	0.0	0.0	4.999999999999986	0.0	-25.000000000000014	4.163336342344337e-17	5.201985633333331e-7	5.626600999999999e-10	5.949074000000002e-13	2.9681915e-8	3012.877	31.44	22.381	638.754	296.8961061589536	506	505.0	/messung/kmc/daten/2020/20_kw29tg14/pilatus_2020kw29tg14_00505.tif	638753	300	1.0	6.319771909559138e-10	300	1.0	2.4956161543527104e-11	300	1.0	2.0859320255104634e-14	300	1.0	3.658569006307666e-11	5
+10.0	112.99999999999989	0.0	0.0	4.999999999999986	0.0	-25.000000000000014	4.163336342344337e-17	4.326929090909091e-7	5.738918181818181e-10	5.51677e-13	2.966488181818182e-8	3012.877	31.44	22.381	943.651	297.02789653208646	507	506.0	/messung/kmc/daten/2020/20_kw29tg14/pilatus_2020kw29tg14_00506.tif	943651	11	1.0	1.1644780336739744e-10	11	1.0	1.9806721999453568e-11	11	1.0	1.0825338387320728e-14	11	1.0	1.376624990197434e-11	6
+600.0	88.15999999999991	0.0	0.0	4.999999999999986	0.0	-25.000000000000014	-9.999999999584994e-7	4.564747420965058e-7	5.562347920133107e-10	5.660443211314484e-13	2.9748935773710486e-8	3012.877	31.44	22.381	962.402	296.84382589283206	508	507.0	/messung/kmc/daten/2020/20_kw29tg14/pilatus_2020kw29tg14_00507.tif	962402	601	1.0	5.807432350373366e-10	601	1.0	2.7790812222717354e-11	601	1.0	2.1949388372079474e-14	601	1.0	3.947875464232264e-11	7
+600.0	83.09999999999991	0.0	0.0	4.999999999999986	0.0	-25.000000000000014	4.163336342344337e-17	3.981410881863563e-7	5.696782695507488e-10	5.512267670549081e-13	2.9527867554076563e-8	3012.877	31.44	22.381	1566.441	296.8277508423955	509	508.0	/messung/kmc/daten/2020/20_kw29tg14/pilatus_2020kw29tg14_00508.tif	1566440	601	1.0	6.048864939338284e-10	601	1.0	2.486254981561395e-11	601	1.0	2.5322811644818844e-14	601	1.0	4.629690157567303e-11	8
+300.0	73.02999999999992	0.0	0.0	4.999999999999986	0.0	-25.000000000000014	1.000000000041766e-6	4.0036894019933565e-7	5.396850830564783e-10	5.46645285714286e-13	2.9554988039867113e-8	3012.877	31.44	22.381	2474.036	297.75698785002703	511	510.0	/messung/kmc/daten/2020/20_kw29tg14/pilatus_2020kw29tg14_00510.tif	2474036	301	1.0	4.2571616884023023e-10	301	1.0	2.5440995140581242e-11	301	1.0	2.4060773608055327e-14	301	1.0	3.396822519863664e-11	10
+600.0	53.26999999999987	0.0	0.0	4.999999999999986	0.0	-25.000000000000014	-2.999999999958331e-6	4.012921633333337e-7	5.88224183333333e-10	5.586312599999998e-13	2.9501022166666687e-8	3012.877	31.44	22.381	4409.262	296.602559842107	515	514.0	/messung/kmc/daten/2020/20_kw29tg14/pilatus_2020kw29tg14_00514.tif	4409262	600	1.0	9.857518185299074e-10	600	1.0	2.7286315918308062e-11	600	1.0	1.8996624997911014e-14	600	1.0	7.35729272083256e-11	14
+

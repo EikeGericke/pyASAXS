@@ -1,9 +1,0 @@
-	FileName	Energy	dEnergy	f0	f-Real	f-Imagin	q_Invariant
-0	223_10000.0_eV_Tif_509_Norm_c0_Sub.dat	10000	1667	28	0.0	0.0	0.0
-1	223_7000.0_eV_Tif_383_Norm_c0_Sub.dat	7000	-1333	28	0.0	0.0	0.0
-2	223_8004.0_eV_Tif_401_Norm_c0_Sub.dat	8004	-329	28	-2.86	0.514	0.0
-3	223_8239.0_eV_Tif_419_Norm_c0_Sub.dat	8239	-94	28	-4.11	0.489	0.0
-4	223_8304.0_eV_Tif_437_Norm_c0_Sub.dat	8304	-29	28	-5.35	0.492	0.0
-5	223_8324.0_eV_Tif_455_Norm_c0_Sub.dat	8324	-9	28	-6.63	0.541	0.0
-6	223_8330.0_eV_Tif_473_Norm_c0_Sub.dat	8330	-3	28	-7.87	0.741	0.0
-7	223_8973.0_eV_Tif_491_Norm_c0_Sub.dat	8973	640	28	0.0	0.0	0.0
